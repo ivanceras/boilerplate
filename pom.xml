@@ -12,7 +12,7 @@
 		<dependency>
 			<groupId>com.ivanceras</groupId>
 			<artifactId>orm</artifactId>
-			<version>0.0.6-SNAPSHOT</version>
+			<version>0.0.6</version>
 		</dependency>
 	</dependencies>
 </project>

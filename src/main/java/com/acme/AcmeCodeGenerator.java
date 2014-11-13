@@ -9,7 +9,7 @@ public class AcmeCodeGenerator {
 	public static void main(String[] args){
 		EntityManager em = null;
 		try {
-			em = SimpleEMF.get(null);
+			em = SimpleEMF.get();
 			AcmeConfiguration conf = new AcmeConfiguration();
 			new DAOGenerator(em, conf, null, null, true).start();
 		} catch (DatabaseException e) {
