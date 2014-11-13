@@ -48,7 +48,7 @@ Refresh your the project tree.
 
 You should see that errors will be gone.
 
-You can now start manipulating the DAO objects like the sample in `ProductController`.
+You can now start manipulating the DAO objects like the sample in [`ProductController`] (https://github.com/ivanceras/boilerplate/blob/master/src/main/java/com/acme/ProductController.java).
 
 
 Enjoy playing.
