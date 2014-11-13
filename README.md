@@ -40,9 +40,9 @@ As you can see, there is an error in the some of the class files, this is becaus
 When I wrote those classes I have had the generated class files already.
 
 
-Make sure in `pom.xml`, the ivanceras orm dependency is accessible, or else, you may need to checkout and build the dependencies yourself.
+Make sure in [`pom.xml`](https://github.com/ivanceras/boilerplate/blob/master/pom.xml), the ivanceras orm dependency is accessible, or else, you may need to checkout and build the dependencies yourself.
 
-Run `AcmeCodeGenerator`
+Run [`AcmeCodeGenerator`] (https://github.com/ivanceras/boilerplate/blob/master/src/main/java/com/acme/AcmeCodeGenerator.java)
 
 Refresh your the project tree.
 
